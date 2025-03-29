@@ -1,0 +1,4 @@
+This project uses the following third-party libraries:
+
+- Abseil (https://github.com/abseil/abseil-cpp) — Apache License 2.0
+- Google Test (https://github.com/google/googletest) — BSD 3-Clause License
