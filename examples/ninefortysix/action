@@ -1,0 +1,6 @@
+// this is the action file of the nine forty six
+// note that we count edges from one in the pdcode
+// but in computer science, we start from zero
+// hence the first entry has to be zero
+
+0,1,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,
